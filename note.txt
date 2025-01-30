@@ -1,0 +1,4 @@
+Object: collection of properties(key(identifier)-value) inside {}. 
+method: function as property value.
+object creating options: object initializer,constructor function
+object initializer: instance of inbuilt class i.e object.
