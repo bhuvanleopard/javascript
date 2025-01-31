@@ -1,4 +1,6 @@
-Object: collection of properties(key(identifier)-value) inside {}. 
+Object: collection of key(identifier)-value(property) inside {}. 
 method: function as property value.
-object creating options: object initializer,constructor function
+object creating options: object initializer,constructor function, class syntax, Object.create() method,
 object initializer: instance of inbuilt class i.e object.
+2 property accessor: dot notation, bracket notation.
+traversing, deleting.
